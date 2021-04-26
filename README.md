@@ -1,2 +1,2 @@
 # WeEdit
-A website where you can askto edit videos and photos .
+A website where you can ask to edit videos and photos .
